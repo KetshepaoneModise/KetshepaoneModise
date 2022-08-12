@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KetshepaoneModise
 - 👀 I’m interested in Software engineering
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning coding using python 
 - 💞️ I’m looking to collaborate on building an e-commerce website
 - 📫 How to reach me kymodise@gmail.com
 
