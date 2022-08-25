@@ -27,5 +27,8 @@ select:focus{
         background: #ff523b;
         color:#fff
     }
+body{
+    background-color: #7fffd4;
+}
 
 
